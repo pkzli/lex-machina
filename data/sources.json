@@ -1,0 +1,28 @@
+{
+  "ai_act": {
+    "bg": { "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_bg.pdf" },
+    "es": { "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_es.pdf" },
+    "cs": { "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_cs.pdf" },
+    "da": { "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_da.pdf" },
+    "de": { "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_de.pdf" },
+    "et": { "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_et.pdf" },
+    "el": { "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_el.pdf" },
+    "en": { "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_en.pdf" },
+    "fr": { "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_fr.pdf" },
+    "ga": { "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_ga.pdf" },
+    "hr": { "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_hr.pdf" },
+    "it": { "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_it.pdf" },
+    "lv": { "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_lv.pdf" },
+    "lt": { "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_lt.pdf" },
+    "hu": { "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_hu.pdf" },
+    "mt": { "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_mt.pdf" },
+    "nl": { "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_nl.pdf" },
+    "pl": { "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_pl.pdf" },
+    "pt": { "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_pt.pdf" },
+    "ro": { "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_ro.pdf" },
+    "sk": { "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_sk.pdf" },
+    "sl": { "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_sl.pdf" },
+    "fi": { "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_fi.pdf" },
+    "sv": { "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=OJ:L_202401689", "dest": "ai_act_sv.pdf" }
+  }
+}
