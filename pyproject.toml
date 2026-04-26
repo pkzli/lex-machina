@@ -8,6 +8,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "langchain>=1.2.15",
     "langchain-community>=0.4.1",
+    "openai>=2.32.0",
     "pymupdf>=1.27.2.2",
     "pypdf>=6.10.2",
     "ruff>=0.15.11",
